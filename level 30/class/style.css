@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+
+}
+ol{
+    color: white;
+    list-style-position: inside;
+    
+}
+p{
+    color: white;
+}
