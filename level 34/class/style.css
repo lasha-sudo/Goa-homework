@@ -1,0 +1,57 @@
+a:link{
+    color: white;
+    font-family: cursive;
+}
+
+
+a:visited{
+    color: brown;
+    font-family: cursive;
+    
+}
+
+a:active{
+    color: chocolate;
+    font-family: cursive;
+}
+
+a:hover{
+    color: blueviolet;
+    font-family: cursive;
+}
+
+
+.tr1{
+    background-color: black;
+}
+
+.tr2{
+    background-color: blue;
+}
+
+.tr3{
+    background-color: green;
+
+}
+
+.tr4{
+    background-color: yellow;
+}
+
+.tr5{
+    background-color: red;
+    
+}
+
+.tr6{
+    background-color: cadetblue;
+
+}
+
+table{
+    color: white;
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+}
+
