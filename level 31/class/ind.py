@@ -1,5 +1,4 @@
 #1
-name = 'lasha'
-place = 'Tbilisi'
+info = ["Lasha" , "Mekokishvili" , 14]
 
-print(f"Hello my name is {name} and i live in {place}")
+print("My name is {0} my last name is {1} , my age is ")

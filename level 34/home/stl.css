@@ -1,0 +1,16 @@
+.t1{
+    background-color: aquamarine;
+    color: white;
+    border: 3px solid white;
+}
+.t2{
+    background-color: aquamarine;
+    color: whitesmoke;
+}
+
+table{
+    width: 45%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 3px solid white;
+}

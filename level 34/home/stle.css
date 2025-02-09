@@ -1,0 +1,30 @@
+.tr1{
+    background-color: grey;
+    color: darkblue;
+    border: none;
+}
+
+tr{
+    background-color: grey;
+    color: ghostwhite;
+    border: 3px solid darkgrey
+
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+
+table{
+    
+        border: 3px solid grey;
+        text-align: center;
+        width: 50%;
+        border-collapse: collapse;
+    
+}

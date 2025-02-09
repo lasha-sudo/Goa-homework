@@ -30,6 +30,7 @@ mixed_case= "PyTHon iS FUn"
 lower = mixed_case.lower()
 print(lower)
 
+#6
 mixede_case= "PyTHon iS FUn"
 upper = mixede_case.upper()
 print(upper)

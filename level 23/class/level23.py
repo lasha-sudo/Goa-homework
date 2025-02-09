@@ -32,3 +32,9 @@ def hello():
     print("გამარჯობა ლაშა, კეთილი იყოს შენი მობრძანება,  გისურვებ წარმატებას და წინ სვლას")
 
 hello()
+
+#3
+def love():
+    print("hello i love you see you soon")
+    
+love()

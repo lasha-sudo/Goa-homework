@@ -1,0 +1,31 @@
+.tr1{
+    background-color: purple;
+    color: white;
+    border: 3px solid purple;
+}
+
+.tr2{
+    background-color: whitesmoke;
+    color: black;
+    border: 3px solid purple;
+    
+    
+}
+
+.tr3{
+    background-color: white;
+    color: black;
+    border: 3px solid purple;
+
+}
+table{
+    border: 3px solid purple;
+    text-align: center;
+    width: 30%;
+    border-collapse: collapse;
+}
+
+
+
+
+    
