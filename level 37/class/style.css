@@ -1,0 +1,33 @@
+nav{
+    position: fixed;
+    top: 0px;
+}
+
+.se{
+    position: static;
+}
+
+.si{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+  
+
+
+img{
+    position:sticky;
+    top: 0px;
+}
+
+div{
+    border: 2px solid red;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+
+

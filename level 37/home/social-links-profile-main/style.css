@@ -1,0 +1,56 @@
+
+
+.div1{
+    width: 300px;
+    height: 600px;
+    background-color: hsl(0, 0%, 12%);
+    border: 3px solid hsl(0, 0%, 12%);
+    text-align: center;
+
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+    
+
+    
+}
+
+img{
+    
+    border-radius: 100%;
+}
+
+.headear1{
+    color: yellowgreen
+}
+
+body{
+    background-color: hsl(0, 0%, 8%)
+}
+
+
+.div2{
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    background-color:hsl(0, 0%, 20%) ;
+    color: white;
+    position: relative;
+    left: 30px;
+    
+}
+
+.headear3{
+    position:static;
+    top: 10px;
+}
+
+
+
+
