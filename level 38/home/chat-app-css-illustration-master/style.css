@@ -1,0 +1,315 @@
+body{
+    background-color: whitesmoke;
+}
+
+.div1{
+    border:10px solid white ; ;
+    position: relative;
+    left: 400px;
+    top: 70px;
+    width: 300px;
+    height: 720px;
+    background-color: hsl(204, 8.20%, 88.00%);
+    border-radius: 10%;
+}
+
+
+.div2{
+    background-color:  hsl(276, 55%, 52%);
+    position: relative;
+    bottom: 3px;
+    border-radius: 20%;
+
+}
+
+.img1{
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+
+.p1{
+    position: relative;
+    left: 70px;
+    top: -10px;
+    font-size: 20px;
+    color: white;
+}
+
+.p2{
+    position: relative;
+    left: 70px;
+    bottom: 10px;
+    font-size: 15px;
+    color:hsl(206, 6%, 79%) ;
+}
+
+
+
+.div3{
+    background-color: hsl(195, 12%, 93%);
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30%;
+
+}
+
+.p3{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: hsl(264, 100%, 61%);
+}
+
+.div4{
+    background-color: hsl(200, 10%, 94%);
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30%;
+}
+
+.p4{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: hsl(264, 100%, 61%);
+
+}
+
+.img2{
+    border-radius: 20%;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 80px;
+    
+    width: 70px;
+    height: 70px;
+
+}
+
+
+.img3{
+    border-radius: 20%;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 80px;
+    
+    width: 70px;
+    height: 70px;
+
+}
+
+.img4{
+    border-radius: 20%;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 80px;
+
+    width: 70px;
+    height: 70px;
+    
+
+
+
+
+}
+
+.div5{
+    background-color: hsl(270, 20%, 96%);
+    position: relative;
+    bottom: 20px;
+    left: 90px;
+    width: 200px;
+    height: 70px;
+    border-radius: 20%;
+}
+.p5{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: hsl(240, 1%, 21%);
+}
+
+
+.div6{
+    background-color: hsl(270, 20%, 96%);
+
+
+    position: relative;
+    bottom: 20px;
+    left: 90px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20%;
+}
+
+.p6{
+    position: relative;
+    left: 30px;
+    top: 10px;
+    font-size: 15px;
+    color: hsl(240, 1%, 21%);
+}
+
+.div7{
+    background-color: hsl(270, 20%, 96%);
+    position: relative;
+    bottom: 20px;
+    left:  10px;
+    width: 200px;
+    height: 70px;
+    border-radius: 20%;
+}
+
+.p7{
+    position: relative;
+    top: 10px;
+    font-size: 15px;
+    color: hsl(264, 100%, 61%);
+}
+
+
+.div8{
+    background-color:hsl(283, 100%, 63%) ;
+    position: relative;
+    bottom: 10px;
+    left:  10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+
+.radio{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.o{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.p8{
+    position: relative;
+    left: 40px;
+    bottom: 27px;
+    font-size: 15px;
+    color: white;
+}
+
+.p9{
+    position: relative;
+    left: 160px;
+    bottom: 60px;
+    font-size: 15px;
+    color: white;
+    letter-spacing: normal;
+}
+
+.div9{ 
+    background-color:hsl(283, 100%, 63%) ;
+    position: relative;
+    bottom: 10px;
+    left:  10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+.radio1{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.p10{
+    position: relative;
+    left: 160px;
+    bottom: 60px;
+    font-size: 15px;
+    color: white;
+    letter-spacing: normal;
+}
+
+.div10{
+    background-color: white;
+    position: relative;
+    bottom: 10px;
+    left:  10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 20%;
+}
+
+.p11{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color:hsl(240, 1%, 21%) ;
+}
+
+.p12{
+    font-size: 40px;
+    position: relative;
+    left: 900px;
+    bottom: 450px;
+    color:hsl(271, 36%, 24%) ;
+}
+
+.p13{
+    font-size: 20px;
+    position: relative;
+    left: 900px;
+    bottom: 450px;
+    color:hsl(273, 19%, 58%) ;
+}
+
+.div11{
+    background-color: hsl(270, 20%, 96%);
+    position: relative;
+    bottom: 10px;
+    left:  10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 20%;
+}
+
+.div12{
+    background-color: hsl(276, 55%, 52%);
+    position: relative;
+    bottom: 950px;
+    right:  100px;
+    width: 500px;
+    height: 700px;
+    border-radius: 30%;
+}
+

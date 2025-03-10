@@ -1,0 +1,52 @@
+*{
+    margin: 30px;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .div1{ 
+
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    transition: 2s;
+
+
+
+
+}
+
+.div1:hover{
+    background-color: red;
+    width: 600px;
+    height: 200px;
+    
+}
+
+.div2{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    transition: 2s;
+    animation-duration: 5s;
+    
+    
+}
+
+.div2:hover{
+    position: relative;
+    left: 600px;
+    top: 600px;
+    
+}
+
+.div2:hover{
+    position: relative;
+    right: 600px;
+    bottom: 600px;
+   
+    
+}
+
+
+
+
