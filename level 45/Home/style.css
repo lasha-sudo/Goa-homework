@@ -1,0 +1,73 @@
+*{
+    margin: 50px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('../Home/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg');
+    background-color: hsl(257, 40%, 49%);
+}
+
+.p1{
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+    bottom: 570px;
+    left: 400px;
+}
+
+.p2{
+    font-size: 3em;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+
+.p3{
+    font-size: 1em;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+    bottom: 630px;
+    left: 400px;
+}
+
+.btn1{
+    height: 150px;
+    
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30%;
+    cursor: pointer;
+    position: relative;
+    bottom: 650px;
+    left: 900px;
+}
+
+.p4{
+    
+    color:hsl(257, 40%, 49%) ;
+    font-weight: 700;
+    text-align: center;
+}
+
+.svg{
+    position: relative;
+    bottom: 1100px;
+    right: 500px;
+    
+}
+    
