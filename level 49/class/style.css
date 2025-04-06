@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: 300px;
+    
+    background-color: black;
+}
+
+.p1{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.div2{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: 400px;
+    background-color: whitesmoke;
+    
+    
+    
+}
