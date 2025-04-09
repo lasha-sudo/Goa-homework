@@ -1,0 +1,41 @@
+:root{
+    --pcolor:red;
+    --buttonbackground-color:blue;
+    --h1font-size: 30px;
+    --h1letter-spacing:3px;
+    --buttondisplay:flex;
+    --pinline-size:var(--pinline);
+    --h1padding:10px;
+    --pmargin:0px;
+    --buttonposition:relative;
+    --buttontransition:2s;
+    --h1transform:translatex(2px);
+
+}
+
+
+p{
+    color: var(--pcolor);
+    inline-size:var(--pinline);
+
+}
+
+button{
+    background-color:var(--buttonbackground-color);
+    display:var(--buttondisplay);
+    padding:var(--h1padding);
+    margin:var(--pmargin);
+    position:var(--buttonposition);
+    transition:var(--buttontransition);
+    transform:var(--h1transform);
+
+}
+
+h1{
+    font-size:var(--h1font-size);
+    letter-spacing:var(--h1letter-spacing);
+    padding:var(--h1padding);
+    margin:var(--pmargin);
+    transform:var(--h1transform);
+
+}
