@@ -11,3 +11,5 @@ let info = {
 };
 this
 console.log(info.personalinfo());
+
+
