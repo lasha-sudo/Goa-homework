@@ -19,6 +19,7 @@ function di() {
     
 };
 
+
 //4
 
 let para = document.querySelector('#checkp');

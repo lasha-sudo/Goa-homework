@@ -94,8 +94,23 @@ let st = (str) => str.toUpperCase()  ;
 
 console.log(st('hello'));
 
-//15 
-//?
+//15
+ let isPrime = () => {
+        let number = prompt('Entr your number: ');
+        if (number <= 1 ){
+            alert('არ არის პრაიმი');
+            return false;
+        }
+        for (let i = 2; i < number; i++) {
+            if (number % i ==0){
+                alert('არ არის პრაიმი');
+                return false;
+            }
+        }
+        alert('პრაიმია')
+        return true
+    };
+
 
 
 

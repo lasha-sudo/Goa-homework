@@ -36,3 +36,4 @@ let Changepassword = prompt("enter new password: ");
 
 let getdetails = new user(prompt("enter your name: ") ,prompt("enter your email: ") , Changepassword )
 
+
