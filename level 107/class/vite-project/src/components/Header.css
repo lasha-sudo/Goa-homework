@@ -1,0 +1,37 @@
+
+
+header{
+    padding: 0 20px;
+    background-color: black;
+    color: white;
+    padding-block: 10px;
+    
+    
+}
+
+header div{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1600px;
+    margin: 0;
+   
+}
+header ul{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+    position: relative;
+    bottom: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header span{
+    position: relative;
+    top: 10px;
+}
+
