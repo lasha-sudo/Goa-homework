@@ -63,3 +63,4 @@ let {saxeli:chemiSaxeli , gvari: chemigvari} = changeName;
 console.log(chemiSaxeli); // 'lasha'
 console.log(chemigvari); // 'mekokishvili'
 
+
